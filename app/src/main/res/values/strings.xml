@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecipeBook</string>
+    <string name="txt_title">Recipe Book</string>
+    <string name="txt_Ingerdients">Ingredients</string>
+    <string name="txt_steps">Steps</string>
+    <string name="btn_add">Add a Recipe</string>
+    <string name="txt_add">Add a Recipe</string>
+    <string name="txt_add_ingredients">List the Ingredients:</string>
+    <string name="txt_list_the_steps">List the Steps:</string>
+    <string name="txt_add_name">What is it Called?</string>
+    <string name="btn_add2">Add this recipe</string>
+    <string name="btn_delete">Delete this Recipe?</string>
+</resources>
